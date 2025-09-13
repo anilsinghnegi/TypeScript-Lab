@@ -15,6 +15,6 @@ for(let i in array1){
 }
 
 
-var readArray : readonly Array<string> = ["Anil Singh negi","Pallavi Bartwal","Ayush Chamoli"]
+var readArray :  Array<string> = ["Anil Singh negi","Pallavi Bartwal","Ayush Chamoli"]
 
 console.log(readArray)
